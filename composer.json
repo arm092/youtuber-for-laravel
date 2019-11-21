@@ -1,5 +1,5 @@
 {
-  "name": "arm092/laravel-youtube-uploader",
+  "name": "arm092/laravel-youtuber",
   "description": "The package will help you to upload videos to youtube with privacy parameter and making youtube api much easier",
   "type": "library",
   "require": {
