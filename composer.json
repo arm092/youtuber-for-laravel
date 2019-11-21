@@ -12,7 +12,7 @@
       "email": "armani00mania@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "Arm092\\YoutubeUploader\\": "src/"
