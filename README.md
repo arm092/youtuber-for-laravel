@@ -11,7 +11,7 @@ laravel youtube uploader is a php package written by [Arman Khachatryan](https:/
 # Installation Guide
 At laravel project install package using composer
 ```
-composer require arm092/laravel-youtuber
+composer require arm092/youtuber-for-laravel
 ```
 The package is compatible with Laravel 6.x so you don't need to set providers or aliases for the package, we're using laravel auto discovery
 
